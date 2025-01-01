@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Soniaranvir
+# 👋 Hello, I’m Sonia
   
 🌆 Toronto, ON
 
