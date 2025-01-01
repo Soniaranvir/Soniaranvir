@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Soniaranvir
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning complete full stack
-- 📫 How to reach me https://www.linkedin.com/in/soniaranvir/
   
 🌆 Toronto, ON
 
