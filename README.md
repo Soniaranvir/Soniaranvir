@@ -14,6 +14,8 @@ Let's Connect!
 
 🔗 LinkedIn: [https://www.linkedin.com/in/clem-chan/](https://www.linkedin.com/in/soniaranvir/)
 
+Portfolio: https://www.datascienceportfol.io/soniaranvir04
+
 
 # My Technical Spells :electron:
 --------
