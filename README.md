@@ -15,10 +15,6 @@ Let's Connect!
 🔗 LinkedIn: [https://www.linkedin.com/in/clem-chan/](https://www.linkedin.com/in/soniaranvir/)
 
 
-Here's a well-structured and GitHub-readable version of your sectioned content:
-
----
-
 # My Technical Spells :electron:
 
 ## Programming Languages  
