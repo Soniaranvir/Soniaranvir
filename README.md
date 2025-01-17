@@ -17,8 +17,11 @@ Let's Connect!
 
 My Technical Spells :electron:
 ----
+## Programming Languages:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Visulizations :
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/microsoft_fabric-425DCB?style=for-the-badge&logo=microsoft&logoColor=white)
