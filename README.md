@@ -14,6 +14,8 @@ Let's Connect!
 
 🔗 LinkedIn: [https://www.linkedin.com/in/clem-chan/](https://www.linkedin.com/in/soniaranvir/)
 
+Website: https://soniaranvir.github.io/sonia-ranvir-portfolio/
+
 Portfolio: https://www.datascienceportfol.io/soniaranvir04
 
 
