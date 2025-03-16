@@ -9,10 +9,12 @@ Every project reflects my commitment to growth, innovation, and crafting meaning
 Always eager to collaborate and share knowledge, so feel free to explore my work and connect!
 
 Let's Connect!
-
 📧 Email: soniaranvir04@gmail.com
+
 🔗 LinkedIn: [https://www.linkedin.com/in/clem-chan/](https://www.linkedin.com/in/soniaranvir/)
+
 Website: https://soniaranvir.github.io/sonia-ranvir-portfolio/
+
 Portfolio: https://www.datascienceportfol.io/soniaranvir04
 
 
